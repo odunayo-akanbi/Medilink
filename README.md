@@ -1,5 +1,5 @@
 
-# The Universal Health Identity Network
+# MediLink - The Universal Health Identity Network
 
 **Tagline:** *Empowering seamless healthcare access through one digital health identity.*
 
