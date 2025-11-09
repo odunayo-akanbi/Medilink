@@ -69,9 +69,9 @@ Built as a modular system so each part can be improved independently. Key techno
 
 ## Visuals & Artifacts
 
-<MedilinkPrototype.PNG>
+[alt text] (./assets\Images<MedilinkPrototype.PNG>)
 
- <MSIS.PNG>
+ [alt text] (./assets\Images<MSIS.PNG>)
  
 ---
 
